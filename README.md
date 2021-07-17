@@ -1,5 +1,4 @@
-# BatteryAlarm
+# BtteryAlarm 
+## A Application Thats Notify When Battery Is Full During Charging.
 
-## Notify When Battery Is Full during device connected to charging
-
-![Sammple Image]()
+![Sample Image]()
