@@ -7,3 +7,6 @@ _batteryStateSubscription = _battery.onBatteryStateChanged.listen((BatteryState 
       setIsCharging();
     });
 ````
+
+![a](asset/images/a.jpg) | ![a](asset/images/a.jpg)
+------------------------------------|-----------------------------------
