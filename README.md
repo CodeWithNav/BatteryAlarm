@@ -10,4 +10,3 @@ _batteryStateSubscription = _battery.onBatteryStateChanged.listen((BatteryState 
 Device Not Connected To Charger Add Battery Is Full | Device Connected To Charger Add Battery Is Full
 ----------------------------------------------------|------------------------------------------------
 ![a](asset/images/a.jpg) | ![a](asset/images/b.jpg)
-------------------------------------|-----------------------------------
