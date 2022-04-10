@@ -7,6 +7,6 @@ _batteryStateSubscription = _battery.onBatteryStateChanged.listen((BatteryState 
       setIsCharging();
     });
 ````
-Device Not Connected To Charger Add Battery Is Full | Device Connected To Charger Add Battery Is Full
+Device Not Connected To Charger And Battery Is Full | Device Connected To Charger And Battery Is Full
 ----------------------------------------------------|------------------------------------------------
 ![a](asset/images/a.jpg) | ![a](asset/images/b.jpg)
